@@ -4,14 +4,14 @@
 module.exports = {
 
     'facebookAuth' : {
-        'clientID'        : '1458026567826958', // your App ID
-        'clientSecret'    : 'c793929275a1819f8ac0c4f9dc6a8678', // your App Secret
+        'clientID'        : '', // your App ID
+        'clientSecret'    : '', // your App Secret
         'callbackURL'     : 'https://safe-springs-1573.herokuapp.com/auth/facebook/callback'
     },
 
     'twitterAuth' : {
-        'consumerKey'        : '60TbmpZjrWCEISOFLCwhFBC3E',
-        'consumerSecret'     : 'tiXuEttk5nWRRLOKcWLER1g1cfXNVJDEUjRSpTvYwDvkYNkhnt',
+        'consumerKey'        : '',
+        'consumerSecret'     : '',
         'callbackURL'        : 'https://safe-springs-1573.herokuapp.com/auth/twitter/callback'
     },
 
